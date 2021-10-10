@@ -29,6 +29,8 @@ void solve(){
     while(i<n){
         if(a[i]=='F'){
             i++;
+            int fuck=0;
+            fuck++;
         }
         else if(a[i]=='X'){
             if(hand){

@@ -60,6 +60,10 @@ void solve(int the)
     string s1,s2,s3,s4,str;
     int i,j,a,b,c,d,k,n,m,l,r,x,y,z,low,high,mid,sum=0,ans=0,temp=0,t,q;
     
+    
+    cin>>n;
+    
+    for(i=0;i<n;i++)cin>>m;
 
 
 }
